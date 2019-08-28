@@ -1,7 +1,7 @@
-A web is software where the internet is hardware.
+1. A web is software where the internet is hardware.
 
-The internet is massive building full of databases and massive cables connecting everyone.
+2. The internet is massive building full of databases and massive cables connecting everyone.
 
-A directory is a place that holds files.
+3. A directory is a place that holds files.
 
-VCS is mostly beneficial since you can have a team wokring on mutliple files anytime anywhere.
+4. VCS is mostly beneficial since you can have a team wokring on mutliple files anytime anywhere.
