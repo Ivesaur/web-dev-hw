@@ -1,9 +1,0 @@
-Tyler Iverson
-
-1. Basically data travels across in packets that have a header and a footer that tells a computer what kind of data it is.
-
-2. DNS is used to maintain a relationship between IP addresses.
-
-3. A small packet of data sent from a server to your computer and stored there.
-
-4. Path, Protocol and Domain.
