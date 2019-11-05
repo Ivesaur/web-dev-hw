@@ -1,0 +1,26 @@
+h1 {
+  color: Black;
+}
+
+body {
+  background-color: White;
+  text-align: center;
+}
+  nav {
+    text-align: center;
+  }
+.square {
+  width: 50%;
+}
+
+#one {
+  background-color: #FF377B
+}
+
+#two {
+  background-color: #7DE522
+}
+
+#three {
+  background-color: #FBE608
+}
