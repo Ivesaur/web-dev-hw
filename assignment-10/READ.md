@@ -1,0 +1,2 @@
+question 13: Web fonts are what you use to build a website or blog. Basic example is bold or italic. A system font is exactly what it sounds like. A font utilized by the basic operating system of your computer. A web safe font is a software you can use that is safe for your computer as a font. The difference between all there main use. Whether they are made for building, what your computer uses as a base or what you download.
+question 14: In case something happens and your website or blog does not load correctly.
