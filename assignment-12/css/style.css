@@ -1,0 +1,152 @@
+/* Style the page: */
+body {
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+    background-color: #e2e2e2;
+}
+
+/* Set items above the header: */
+.site-brand {
+   margin: 2em;
+   text-align: center;
+   font-size: 150%;
+}
+
+/* Set your header design: */
+header {
+    position: sticky;
+    text-align: center;
+    top: 0px;
+    background-color: #26272b;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: maroon;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: grey;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #baf0ef;
+    background-color: #a2a2a2;
+}
+
+/* Style the Main Content: */
+.site-name {
+    float: left;
+    padding-right: 1em;
+    color: #1CCDCA;
+}
+.main-container {
+    margin-top: 2em;
+    padding: 1em;
+    line-height: 1.4em;
+}
+/* Media page content: */
+.F1-container {
+    max-width: 600px;
+    border: 1px solid black;
+    padding: 1em;
+    text-align: justify;
+    margin: auto;
+}
+.maroon-square {
+    width: 10%;
+    height: 8em;
+    margin: 0.25em;
+    background-color: maroon;
+}
+.float .maroon-square {
+    float: left;
+}
+.float .float-right {
+    float: right;
+}
+.float .clear-left {
+        clear: left;
+}
+
+/* SOCIAL MEDIA: */
+.social-links {
+  padding: .5em;
+  float: left;
+  display: inline-block;
+
+}
+.social-links .social-item {
+  margin: 0 8px;
+}
+.social-links img {
+  color: white;
+  width: 40px;
+  height: 40px;
+  opacity: .5;
+}
+.social-links img:hover {
+  opacity: 1;
+}
+
+/* Contact page */
+.h1 {
+  text-align: center;
+}
+/* service page */
+.F2-container {
+  max-width: 600px;
+  border: 3px solid black;
+  padding: 1em;
+  text-align: justify;
+  margin: auto;
+}
