@@ -1,0 +1,135 @@
+/* page: */
+body {
+  background-color: white;
+}
+
+/* above the header: */
+.site-brand {
+   margin: 2em;
+   text-align: center;
+   font-size: 150%;
+}
+
+/*  header design: */
+header {
+    position: sticky;
+    text-align: center;
+    top: 0px;
+    background-color: Grey;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+
+/*Main-container*/
+.main-container {
+  width: 60%;
+  max-width: 700px;
+  margin: 3em auto;
+  padding: 3em;
+  background-color: black;
+  border-right: 15px solid #999;
+  border-bottom: 15px solid #666;
+
+
+}
+
+.site-heading{
+  width: 50%;
+  margin: 4em auto;
+  padding: 30px;
+  position: relative;
+  border: 5px double Grey;
+  z-index: 1;
+  text-align: center;
+
+}
+
+/*  menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: auto;
+    text-align: center;
+    background-color: ;
+    padding: 0.5em 1em;
+}
+
+/* Style links: */
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: grey;
+}
+
+/* SOCIAL MEDIA: */
+.social-links {
+  padding: .5em;
+  float: left;
+  display: inline-block;
+
+}
+.social-links .social-item {
+  margin: 0 8px;
+}
+.social-links img {
+  color: white;
+  width: 40px;
+  height: 40px;
+  opacity: 1;
+}
+.social-links img:hover {
+  opacity: .5;
+}
+
+#title{
+  margin: .5em;
+  line-height: 1em;
+  font-size: 3em;
+}
+
+#slogan{
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+/*Logo*/
+
+
+.about-site-heading{
+  width: 50%;
+  margin: 4em auto;
+  padding: 30px;
+  position: relative;
+  border: 15px double Grey;
+  text-align: center;
+}
+
+/*Galler*/
+.gallery{
+  float: center;
+  position: relative;
+  padding: 30px;
+
+}
+
+.photo{
+  float: center;
+}
+
+.second-container{
+  width: 30%;
+  max-width: 400px;
+  margin: 3em auto;
+  padding: 3em;
+  background-color: grey;
+  border: 5px solid #FFF;
+  padding: 3em;
+
+}
